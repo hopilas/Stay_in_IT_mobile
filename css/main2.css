@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed:ital,wght@0,1..1000;1,1..1000&display=swap');
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+body {
+    font-family: "Sofia Sans Semi Condensed", sans-serif;
+    font-weight: 400;
+    color: #1e1f20;
+}
+
+a {
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
+
+.wrapper {
+    background: linear-gradient(360deg,rgb(255, 255, 255) 0%, rgb(221, 224, 230) 100%);
+    width:100% ;
+
+}
+
+
+.container {
+    min-width: auto;
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    padding: 50px 0;
+}
+
+
+header nav {
+    width: 100%;
+
+}
+
+header nav ul {
+    list-style: none;
+    display:flex;
+    justify-content:space-around;
+    z-index: 2;
+    position: relative
+}
+
+header nav ul li {
+    display: inline-block;
+    font-weight: 600;
+    padding-top: 20px;
+    font-size: 140%;
+    white-space: nowrap;
+}
+
+header nav ul li a {
+    color: #dee3e8; ;
+}
+
+header nav ul li:not(.active):not(.btn) a:hover {
+    border-bottom: 5px solid #1D4D7A;
+}
+
+header nav ul li.btn a {
+    background-color: #1D4D7A;
+    padding: 9px 17px;
+    border-radius: 5px;
+    transition: all 400ms ease;
+
+}
+header nav ul li.btn a:hover {
+    background: #11273a;
+}
+
+header nav  {
+    content: '';
+    display: block;
+    width: auto;
+    background:#2d2b33 ;
+    border-radius: 10px;
+    position: relative;
+    top: -30px;
+    block-size: 70px;
+      
+
+}
+
+
+
+
+
+
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+    font-weight: 400;
+    padding-top: 50px;
+    font-family: cursive;
+    padding-bottom: 10%;
+    padding-top: 7%;
+    white-space: nowrap;
+}
+h2 {
+    content: '';
+    position: absolute;
+    display: block;
+    width: auto;
+    background:#2d2b33 ;
+    border-radius: 10px;
+    position: relative;
+    top: -3px;
+    block-size: 45px;
+}
