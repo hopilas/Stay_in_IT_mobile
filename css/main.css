@@ -215,17 +215,17 @@ list-style-type: none;
     font-weight: 500;
     padding-top: 5px;
     font-family: cursive;
-    padding-bottom: 10%;
     white-space: nowrap;
 }
 
 .Id_0 textarea {
+    padding-left: 4px;
     text-align: justify;
-    width: 400px;
+    width: 300px;
     position:absolute;
     top:300px;
     left: 50%;
-    font-size: 13px;
+    font-size: 9px;
     padding-top: 20px;
     border-color: #1e1f20;
     outline: none;
