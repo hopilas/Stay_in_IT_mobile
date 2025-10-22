@@ -138,10 +138,16 @@ h4 {
     top: 1700px;
     position:absolute;
     margin: 0 auto;
+
+}
+.hero5 {
+    width: 100%;
+    top: 2100px;
+    position:absolute;
+    margin: 0 auto;
     padding-bottom: 600px;
 
 }
-
 .hero00 {
     width: 100%;
     left: auto;
@@ -243,6 +249,29 @@ h4 {
     background: #2d2b33;
     color:#dee3e8;
     padding:10px 100px;
+    font-size: 20px;
+    white-space: nowrap;
+    transform: translate(-50%);
+
+}
+
+.hero5 img {
+    position:absolute;
+    transform: translate(-50%);
+    width: auto;
+    left:50%;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 10px solid #2d2b33;
+}
+.Id_4 li a{
+    position:absolute;
+    top: 330px;
+    left:50%;
+    border-radius: 5px;
+    background: #2d2b33;
+    color:#dee3e8;
+    padding:10px 140px;
     font-size: 20px;
     white-space: nowrap;
     transform: translate(-50%);
