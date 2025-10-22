@@ -119,7 +119,7 @@ h4 {
     margin: 0 auto;
 
 }
-.hero00--info textarea {
+.hero00--info h2 {
     text-align: center;
     font-size: 80px;
     font-weight: 600;
@@ -133,7 +133,6 @@ h4 {
     position:absolute;
     margin: 0 auto;
     padding-bottom: 400px;
-
 }
 .hero1--info h2 {
     text-align: center;

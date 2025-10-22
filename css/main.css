@@ -163,11 +163,11 @@ list-style-type: none;
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 780px;
+    top: 840px;
     width: 300px;
     border-radius: 10px;
     display: block;
-
+    border: 10px solid #2d2b33;
 }
 
 .hero li a {
