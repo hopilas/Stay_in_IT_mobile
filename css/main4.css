@@ -119,11 +119,10 @@ h4 {
     margin: 0 auto;
 
 }
-.hero00--info h2 {
+.hero00--info textarea {
     text-align: center;
     font-size: 80px;
     font-weight: 600;
-    font-family: cursive;
     white-space: nowrap;
 
 }
