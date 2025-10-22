@@ -116,26 +116,24 @@ list-style-type: none;
 }
 
 .hero h3 {
+    font-family: cursive;
     text-align: center;
     font-size: 50px;
     font-weight: 600;
     padding-top: 50px;
     font-family: cursive;
-    padding-bottom: 10%;
-    padding-top: 7%;
+    padding-bottom: 40%;
     white-space: nowrap;
+    padding-top: 30%;
 
 }
 h2 {
-    max-width: 90%;
     width: auto;
-    transform: translate(+5%);
     content: '';
     position: absolute;
     display: block;
     background:#2d2b33 ;
-    border-radius: 10px;
     position: relative;
-    top: -3px;
-    block-size: 10px;
+    top: -2px;
+    block-size: 15px;
 }
