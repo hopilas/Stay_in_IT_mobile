@@ -201,18 +201,18 @@ list-style-type: none;
 
 .Id_0 h5 {
     text-align: center;
-    font-size: 60px;
-    font-weight: 480;
+    font-size: 35px;
+    font-weight: 580;
     font-family: cursive;
-    padding-top: 50px;
+    padding-top: 150px;
     white-space: nowrap;
 
 }
 
 .Id_0 h6 {
     text-align: center;
-    font-size: 35px;
-    font-weight: 400;
+    font-size: 25px;
+    font-weight: 500;
     padding-top: 5px;
     font-family: cursive;
     padding-bottom: 10%;
@@ -220,18 +220,17 @@ list-style-type: none;
 }
 
 .Id_0 textarea {
-    width: 1500px;
+    text-align: justify;
+    width: 400px;
     position:absolute;
     top:300px;
     left: 50%;
-    font-size: 30px;
-    padding-top: 50px;
-    font-family: cursive;
-    resize: none;
+    font-size: 13px;
+    padding-top: 20px;
     border-color: #1e1f20;
     outline: none;
-    padding-left: 2%;
-    padding-bottom: 15%;
+    padding-left: 10px;
+    padding-right: 10px;
     color:#1e1f20;
     white-space: nowrap;
     transform: translate(-50%);
