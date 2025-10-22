@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: "Sofia Sans Semi Condensed", sans-serif;
+    font-family: sans-serif;
     font-weight: 400;
     color: #1e1f20;
 }
@@ -50,21 +50,21 @@ header nav ul {
 
 header nav ul h1 {
     display: block;
-    width: 15px;
+    width: 45px;
 }
 
 header nav ul li {
     display: inline-block;
     font-weight: 600;
     padding-top: 20px;
-    font-size: 130%;
+    font-size: 120%;
     white-space: nowrap;
 
 }
 
 
 header nav ul li a {
-    color: #dee3e8; ;
+    color: #dee3e8;
 }
 
 header nav ul li:not(.active):not(.btn) a:hover {
@@ -103,35 +103,41 @@ h1 {
 padding-bottom: 1000px;
 position:relative;
 z-index: 1;
+list-style-type: none;
 }
 .hero--info {
     width: auto;;
-    padding-top: 40px;
+    padding-top: 80px;
 }
 
 .hero--info h2 {
-    font-size: 60px;
-    font-weight: 600;
+    font-size: 75px;
     font-family: cursive;
     white-space: nowrap;
+    font-weight: 1000;
+    padding-top: 20px;
+    white-space: nowrap;
+    text-align: center;
 
 }
 
 .hero--info h1 {
     font-size: 40px;
-    font-weight: 450;
+    font-weight: 550;
     font-family: cursive;
     padding-top: 60px;
     white-space: nowrap;
+    text-align: center;
 }
 
 .hero--info p {
     font-size: 25px;
-    font-weight: 400;
+    font-weight: 550;
     padding-top: 5px;
     font-family: cursive;
     padding-bottom: 5%;
     white-space: nowrap;
+    text-align: center;
 
 }
 
@@ -142,7 +148,7 @@ z-index: 1;
     content: '';
     background:#2d2b33;
     border-radius: 15px;
-    block-size: 30px;
+    block-size: 10px;
     
 
 }
@@ -152,8 +158,8 @@ z-index: 1;
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 700px;
-    width: 350px;
+    top: 780px;
+    width: 300px;
     border-radius: 10px;
     display: block;
 
@@ -163,13 +169,13 @@ z-index: 1;
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 920px;
-    width: 350px;
+    top: 980px;
+    width: 300px;
     border-radius: 5px;
     background: #2d2b33;
     color:#dee3e8;
-    padding:20px;
-    font-size: 20px;
+    padding:10px;
+    font-size: 23px;
     text-align: center;
     white-space: nowrap;
     
@@ -180,7 +186,7 @@ z-index: 1;
     font-size: 45px;
     font-weight: 550;
     font-family: cursive;
-    padding-top: 70px;
+    padding-top: 150px;
     white-space: nowrap;
     text-align: center;
     white-space: nowrap;
