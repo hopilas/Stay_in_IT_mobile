@@ -142,13 +142,13 @@ h4 {
     font-weight: 320px;
     white-space: nowrap;
     text-decoration: underline;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     
 }
 .hero1--info h1 {
-    padding-top: 20px;
+    padding-top: 10px;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 80px;
     white-space: nowrap;
 }

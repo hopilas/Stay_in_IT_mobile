@@ -112,15 +112,15 @@ h4 {
 .hero00 {
     width: 100%;
     left: auto;
-    top: 200px;
+    top: 300px;
     position:absolute;
     margin: 0 auto;
 
 }
 .hero00--info h2 {
     text-align: center;
-    font-size: 25px;
-    font-weight: 600;
+    font-size: 14px;
+    font-weight: 800;
     font-family: cursive;
     white-space: nowrap;
 
@@ -138,8 +138,8 @@ h4 {
 }
 .hero1--info h2 {
     text-align: center;
-    font-size: 25px;
-    font-weight: 600;
+    font-size: 14px;
+    font-weight: 800;
     font-family: cursive;
     white-space: nowrap;
 
@@ -148,15 +148,17 @@ h4 {
     position: absolute;
     left: 50%;
     transform: translate(-50%, -50%);
-    top: 110px;
-    max-width: 400px;
-    border-radius: 7px;
+    top: 170px;
+    width: 300px;
+    border-radius: 5px;
     background: #2d2b33;
     color:#dee3e8;
-    padding:10px 165px;
+    padding:10px;
     font-size: 20px;
     text-align: center;
     white-space: nowrap;
-    
+}
 
+h3 {
+    padding-bottom: 200px;
 }
