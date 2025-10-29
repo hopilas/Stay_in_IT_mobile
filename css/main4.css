@@ -134,14 +134,29 @@ h4 {
     margin: 0 auto;
     padding-bottom: 400px;
 }
+.hero2 {
+    width: 100%;
+    left: auto;
+    top: 1220px;
+    position:absolute;
+    margin: 0 auto;
+    padding-bottom: 400px;
+}
+.hero1--info {
+    background-color: #b9c0c5;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-block: 40px;
+    border: 10px solid #2d2b33;
+}
 .hero1--info h2 {
     text-align: center;
     font-size: 40px;
     font-weight: 320px;
     white-space: nowrap;
     text-decoration: underline;
-    padding-bottom: 20px;
-    
+    background-color: #a7b0b7;
+    padding-block: 10px;
 }
 .hero1--info h1 {
     padding-top: 10px;
@@ -151,12 +166,14 @@ h4 {
     white-space: nowrap;
 }
 .hero1--info h3 {
-    padding-top: 60px;
+    background-color: #292929;
+    margin-top: 60px;
     text-align: center;
     font-size: 30px;
     font-weight: 20px;
     white-space: nowrap;
     color: #1275c5;
+    padding-block: 10px;
 }
 .hero1--info h6 {
     padding-top: 20px;
@@ -171,4 +188,13 @@ h4 {
     font-size: 30px;
     font-weight: 20px;
     white-space: nowrap;
+}
+.hero1--info h4 {
+    position: absolute;
+    left:900px;
+    top:270px;
+    font-size: 30px;
+    font-weight: 20px;
+    white-space: nowrap;
+    color: #1275c5;
 }
