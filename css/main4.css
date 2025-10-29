@@ -131,7 +131,6 @@ h4 {
     left: auto;
     top: 720px;
     position:absolute;
-    margin: 0 auto;
     padding-bottom: 400px;
 }
 .hero2 {
@@ -144,8 +143,6 @@ h4 {
 }
 .hero1--info {
     background-color: #b9c0c5;
-    margin-left: 300px;
-    margin-right: 300px;
     padding-block: 40px;
     border: 10px solid #2d2b33;
 }
@@ -169,7 +166,7 @@ h4 {
     background-color: #292929;
     margin-top: 60px;
     text-align: center;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 20px;
     white-space: nowrap;
     color: #1275c5;
@@ -178,23 +175,14 @@ h4 {
 .hero1--info h6 {
     padding-top: 20px;
     text-align: center;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 20px;
     white-space: nowrap;
 }
 .hero1--info h5 {
     padding-top: 20px;
     text-align: center;
-    font-size: 30px;
+    font-size: 28px;
     font-weight: 20px;
     white-space: nowrap;
-}
-.hero1--info h4 {
-    position: absolute;
-    left:900px;
-    top:270px;
-    font-size: 30px;
-    font-weight: 20px;
-    white-space: nowrap;
-    color: #1275c5;
 }
