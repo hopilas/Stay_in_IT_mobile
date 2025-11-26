@@ -122,7 +122,6 @@ h4 {
     top: 900px;
     position:absolute;
     margin: 0 auto;
-
 }
 
 .hero3 {
@@ -130,7 +129,6 @@ h4 {
     top: 1300px;
     position:absolute;
     margin: 0 auto;
-
 }
 
 .hero4 {
@@ -138,22 +136,37 @@ h4 {
     top: 1700px;
     position:absolute;
     margin: 0 auto;
-
 }
 .hero5 {
     width: 100%;
     top: 2100px;
     position:absolute;
     margin: 0 auto;
-
 }
 .hero6 {
     width: 100%;
     top: 2500px;
     position:absolute;
     margin: 0 auto;
+}
+.hero7 {
+    width: 100%;
+    top: 2900px;
+    position:absolute;
+    margin: 0 auto;
+}
+.hero8 {
+    width: 100%;
+    top: 3300px;
+    position:absolute;
+    margin: 0 auto;
+}
+.hero9 {
+    width: 100%;
+    top: 3700px;
+    position:absolute;
+    margin: 0 auto;
     padding-bottom: 600px;
-
 }
 .hero00 {
     width: 100%;
@@ -301,6 +314,72 @@ h4 {
     border: 10px solid #2d2b33;
 }
 .Id_5 li a{
+    position:absolute;
+    top: 330px;
+    left:50%;
+    border-radius: 5px;
+    background: #2d2b33;
+    color:#dee3e8;
+    padding:10px 100px;
+    font-size: 20px;
+    white-space: nowrap;
+    transform: translate(-50%);
+
+}
+.hero7 img {
+    position:absolute;
+    transform: translate(-50%);
+    width: auto;
+    left:50%;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 10px solid #2d2b33;
+}
+.Id_6 li a{
+    position:absolute;
+    top: 330px;
+    left:50%;
+    border-radius: 5px;
+    background: #2d2b33;
+    color:#dee3e8;
+    padding:10px 100px;
+    font-size: 20px;
+    white-space: nowrap;
+    transform: translate(-50%);
+
+}
+.hero8 img {
+    position:absolute;
+    transform: translate(-50%);
+    width: auto;
+    left:50%;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 10px solid #2d2b33;
+}
+.Id_7 li a{
+    position:absolute;
+    top: 330px;
+    left:50%;
+    border-radius: 5px;
+    background: #2d2b33;
+    color:#dee3e8;
+    padding:10px 100px;
+    font-size: 20px;
+    white-space: nowrap;
+    transform: translate(-50%);
+
+}
+.hero9 img {
+    position:absolute;
+    transform: translate(-50%);
+    width: auto;
+    left:50%;
+    max-width: 300px;
+    border-radius: 10px;
+    border: 10px solid #2d2b33;
+}
+.Id_8 li a{
     position:absolute;
     top: 330px;
     left:50%;
